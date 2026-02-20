@@ -5,7 +5,7 @@
 ## 🌟 Interfaz y Demostración
 Así es como luce la interacción con el bot:
 
-![Captura del Bot](screenshot1.png) 
+![Captura del Bot](WhatsApp Image 2026-02-19 at 8.28.56 PM) 
 *(Sube aquí tu captura de pantalla de Telegram)*
 
 ---
@@ -23,4 +23,5 @@ Así es como luce la interacción con el bot:
 4. Ejecuta `python main.py`.
 
 ---
+
 Desarrollado con ❤️ por **Fernando**.
