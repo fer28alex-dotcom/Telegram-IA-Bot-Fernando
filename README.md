@@ -5,7 +5,7 @@
 ## 🌟 Interfaz y Demostración
 Así es como luce la interacción con el bot:
 
-![Captura del Bot](WhatsApp Image 2026-02-19 at 8.28.56 PM) 
+![Captura del Bot](imagen1.png) 
 *(Sube aquí tu captura de pantalla de Telegram)*
 
 ---
@@ -25,3 +25,4 @@ Así es como luce la interacción con el bot:
 ---
 
 Desarrollado con ❤️ por **Fernando**.
+
